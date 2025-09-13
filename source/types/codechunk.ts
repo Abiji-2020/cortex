@@ -1,4 +1,4 @@
-// Standardized interface for the code chunks that will be used for the code chunking and retriving in semantically meaninful chunk.
+// Standardized interface for the code chunks that will be used for the code chunking and retrieving in semantically meaningful chunk.
 
 export interface CodeChunk {
 	filePath: string;
